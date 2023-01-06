@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="librerias/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="librerias/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="librerias/iText-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="librerias/jasperreports-6.0.0.jar"/>
+	<classpathentry kind="lib" path="librerias/log4j-1.2.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
